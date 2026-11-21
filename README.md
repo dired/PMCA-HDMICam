@@ -1,13 +1,21 @@
+> # Update on How To Install 2026-11-21
+
+In the past this app needed to be installed throuh the pmca-gui application from [https://github.com/ma1co/Sony-PMCA-RE], which hasn't been updated in 4 years.
+
+**This app can nowadays also immediately be consumed and used (=directly installed via usb) through [pmca-re-reloaded](https://github.com/masterflai/pmca-re-reloaded) as well.**
+
+> Adding to ma1co's OpenMemories app - so that it would be in the app list by default for users - was possble for many years by opening a pull request to https://github.com/ma1co/OpenMemories-AppList/pulls - mine (and others) hasn't been answered for 3 years now. <br>
+> However the idea on OpenMemories was picked up by @masterflai and his pmca-re-reloaded project so be sure to check it out as well :)
+> I haven't updated the README below, expecting that you'd read this update first. The old way on how to install it also still works so I leave it as it is.
+> Anyone is appreciated to pick up the work on this repo, e.g. implementing the [user suggestions](https://github.com/dired/PMCA-HDMICam/discussions/3), as I currently don't have the time for it.  
+
+---
+
 # PMCA-HDMICam
 
 OpenMemories is a Framework hosted by @ma1co that allows to build PlayMemories Camera Apps (PMCA). PMCAs are Sony's android app format, supported by a wide range of Cameras that were released by Sony from 2012-2016.
 
 This is such a custom PCMA, an OpenMemories App, that you can install using @ma1co's easy-to-use installation tool [Sony-PMCA-RE](https://github.com/ma1co/Sony-PMCA-RE).
-
-# Update on OpenMemories 2026-11-21
-Adding to ma1co's OpenMemories app was possble for many years by opening a pull request to https://github.com/ma1co/OpenMemories-AppList/pulls - mine (and others) hasn't been answered for 3 years now.
-
-However the idea on OpenMemories was picked up by @masterflai and **this app can nowadays immediately be consumed and used (=directly installed as an app via usb without any hoops to jump through) through [pmca-re-reloaded](https://github.com/masterflai/pmca-re-reloaded) https://github.com/masterflai/pmca-re-reloaded as well**. Be sure to check this project out as well.
 
 ## Introduction
 
