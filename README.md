@@ -4,6 +4,11 @@ OpenMemories is a Framework hosted by @ma1co that allows to build PlayMemories C
 
 This is such a custom PCMA, an OpenMemories App, that you can install using @ma1co's easy-to-use installation tool [Sony-PMCA-RE](https://github.com/ma1co/Sony-PMCA-RE).
 
+# Update on OpenMemories 2026-11-21
+Adding to ma1co's OpenMemories app was possble for many years by opening a pull request to https://github.com/ma1co/OpenMemories-AppList/pulls - mine (and others) hasn't been answered for 3 years now.
+
+However the idea on OpenMemories was picked up by @masterflai and **this app can nowadays immediately be consumed and used (=directly installed as an app via usb without any hoops to jump through) through [pmca-re-reloaded](https://github.com/masterflai/pmca-re-reloaded) https://github.com/masterflai/pmca-re-reloaded as well**. Be sure to check this project out as well.
+
 ## Introduction
 
 Were you - just like me - blindly buying the Sony DSC HX400V, expecting that "HDMI Out" means you can expect a full-hd output that can be recorded (e.g. to use it as a webcam)?
